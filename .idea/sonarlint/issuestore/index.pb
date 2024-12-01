@@ -22,3 +22,5 @@ o
 ?app/src/main/java/com/riansap/myrecyclerview/ListHeroAdapter.kt,8/1/815cf2236564c621e7d73212b8dedc149c4267d8
 l
 <app/src/main/java/com/riansap/myrecyclerview/MainActivity.kt,2/2/22facf4e973479d37f75af3bd17a7f9f210e57ac
+d
+4app/src/main/java/com/riansap/myrecyclerview/Hero.kt,3/6/36e597c1abb8e73f80c6c6ccb34690c8a58d0801
